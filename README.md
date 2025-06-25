@@ -31,6 +31,26 @@ Your mission is to transform this chatbot into an extraordinary conversational a
 - `/api/stream` **Edge** route that streams an echo response ⚡️
 - Stub for integrating an **OpenAI Assistant** to add side-effects (analytics, logging, etc.)
 
+## ✨ New Features
+- 🧠 **User Preferences Persistence**
+User preferences are now saved using localStorage, allowing for a more consistent experience across sessions.
+
+- 🎨 **UI Redesign**
+A completely refreshed interface for improved usability and a cleaner look.
+
+- 💬 **Contextual Follow-Up**
+Users can now continue the conversation from their last question, optimized to minimize OpenAI token usage.
+
+- 📄 **Markdown Rendering**
+Responses now support Markdown formatting for better readability and structure.
+
+- 🖼️ **Rich Media Responses**
+The AI Agent can return images and links when relevant, enhancing the interactivity of responses.
+
+- 🌍 **Smarter Travel Assistant**
+The agent is now more focused as a travel assistant, tailoring suggestions based on user preferences.
+
+
 ## 🚀 How to Get Started
 
 1. Clone the repository:
